@@ -52,3 +52,22 @@ Infrastructure should be:
 - User-centered
 
 AI-assisted R&D is part of my workflow, but validation and governance always come first.
+
+## Featured Projects
+
+### 🚀 Jamf Zero-Touch Deployment
+Architecture and workflow for Apple Business Manager + Jamf Pro automated enrollment.  
+👉 https://github.com/fabesco/jamf-zero-touch-deployment
+
+### 🖥 Mac Fleet Automation Scripts
+Bash/Zsh scripts for macOS fleet management and deployment validation.  
+👉 https://github.com/fabesco/mac-fleet-automation-scripts
+
+### 🔐 Okta + Jamf SSO Integration
+SSO/MFA integration blueprint and security considerations.  
+👉 https://github.com/fabeasco/okta-jamf-sso-integration
+
+### 🤖 AI-Assisted IT Workflows
+R&D workflows using AI for scripting, log analysis, and automation validation.  
+👉 https://github.com/fabaesco/ai-assisted-it-workflows
+
